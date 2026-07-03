@@ -26,7 +26,7 @@ Welcome to my security research portfolio. This repository serves as a practical
 
 - **Target Application:** AndroGoat OWASP Mobile Lab
 - **Report Link:** [View Mobile Security PDF](./Mobile-Application-Security/Mobile_Security_Report_AndroGoat.pdf)
-- **Core Focus:** Static and dynamic analysis of Android APK packages, identifying hardcoded credentials, insecure local data storage, and reverse engineering.
+- **Core Focus:** 
 
 ---
 
@@ -39,4 +39,4 @@ Welcome to my security research portfolio. This repository serves as a practical
 
 I am an Associate Security professional actively looking for Penetration Testing, AppSec, or Smart Contract Audit Internships (Remote/Hybrid).
 
-- **LinkedIn:** [Insert your LinkedIn Link here]
+- **LinkedIn:** https://www.linkedin.com/in/adbin-magar/
