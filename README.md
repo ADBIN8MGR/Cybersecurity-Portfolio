@@ -32,7 +32,7 @@ Welcome to my security research portfolio. This repository serves as a practical
 
 ## 🛠️ Industry Experience & Foundation
 
-- **Professional Experience:** Completed the 3-Month CyberReady Nepal Program at **Eminence Ways**, building real-world enterprise auditing and security evaluation skills.
+- **Professional Experience:** Completed the 3-Month internship at **Eminence Ways**, building real-world enterprise auditing and security evaluation skills.
 - **Core Tech Stack:** Kali Linux, Burp Suite, Nmap, Metasploit, Jadx-GUI, Wireshark.
 
 ## 🚀 Contact & Collaboration
